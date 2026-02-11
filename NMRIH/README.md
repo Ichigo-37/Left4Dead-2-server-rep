@@ -58,7 +58,7 @@
 * **Step 3:** after it says "Loading Steam API...OK.", type
 	* ```force_install_dir ./nmrih/```
 	* ```login xxxx```
-		* xxxx is your steam account number 
+		* xxxx is your steam account name (not display name)
 		* Enter your steam account password if needed (first time login)
 	* ```app_update 317670 validate```
 

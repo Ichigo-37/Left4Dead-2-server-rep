@@ -61,7 +61,7 @@
 * **Step 3:** after it says "Loading Steam API...OK.", type
 	* ```force_install_dir ./css/```
 	* ```login xxxx```
-		* xxxx is your steam account number 
+		* xxxx is your steam account name (not display name)
 		* Enter your steam account password if needed (first time login)
 	* ```app_update 232330 validate```
 

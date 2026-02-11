@@ -135,7 +135,7 @@
 * **Step 3:** After it says "Loading Steam API...OK.", type
 	* ```force_install_dir ./l4d2/```
 	* ```login xxxx```
-		* xxxx is your steam account number 
+		* xxxx is your steam account name (not display name)
 		* Enter your steam account password if needed (first time login)
 	* ```app_update 222860 validate```
 
